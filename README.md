@@ -21,9 +21,8 @@ I have produced **2,000+ automotive articles** across my career and currently wo
 ## Selected Career Highlights
 
 - **18+ years** of professional editorial and digital publishing experience
-- **2,000+** automotive articles produced across leading regional platforms
+- **2,000+** articles produced across leading regional platforms
 - **450+** articles, tips, and buying guides published at Motorgy
-- **70+** full vehicle reviews covering key models in the Kuwaiti market
 - Led **English-to-Arabic localization** across a website, including terminology, tone, and SEO structure
 - Built and maintained a structured automotive database covering manufacturers, models, model years, and trim levels
 - Led a **team of three** responsible for automotive data entry and database maintenance
@@ -32,7 +31,7 @@ I have produced **2,000+ automotive articles** across my career and currently wo
 
 ## Selected Work
 
-### 1. Automotive Editorial Samples
+### 1. Editorial Samples
 A selection of published automotive articles, reviews, and editorial work.
 
 [View selected work →](content-samples/selected-work.md)
@@ -47,7 +46,7 @@ Experience leading website localization and adapting English content for Arabic-
 
 [View localization work →](localization/english-arabic-localization.md)
 
-### 4. Automotive Journalism
+### 4. Journalism
 A career spanning automotive news, industry reporting, reviews, events, television, and digital publishing.
 
 [View automotive experience →](automotive/automotive-journalism.md)
