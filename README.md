@@ -55,7 +55,3 @@ A career spanning automotive news, industry reporting, reviews, events, televisi
 
 - **LinkedIn:** https://www.linkedin.com/in/isam-al-darawsheh
 - **Email:** isam.darawsheh@gmail.com
-
-## About This Portfolio
-
-This repository is a professional portfolio designed to give recruiters and hiring managers a quick view of my experience, capabilities, selected results, and representative work. It is intended for roles in editorial, content strategy, SEO, localization, communications, digital publishing, AI content evaluation, and automotive media.
