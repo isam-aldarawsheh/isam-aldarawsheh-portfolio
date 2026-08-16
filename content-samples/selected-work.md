@@ -31,7 +31,6 @@ Demonstrates automotive writing, editorial judgment, and content presentation.
 
 ## What These Samples Demonstrate
 
-- Automotive journalism and industry knowledge
 - Research and fact-checking
 - Editorial writing and editing
 - SEO-aware content structure
