@@ -22,4 +22,4 @@ This includes maintaining consistency in terminology, editorial tone, content st
 
 ## Editorial Principle
 
-Effective localization should feel like content originally written for the target audience—not a literal translation. My approach combines linguistic accuracy with editorial judgment, cultural awareness, and an understanding of digital search behavior.
+Effective localization should feel like content originally written for the target audience (not a literal translation). My approach combines linguistic accuracy with editorial judgment, cultural awareness, and an understanding of digital search behavior.
