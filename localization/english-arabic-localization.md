@@ -13,12 +13,10 @@ I work beyond direct translation to make sure English content is adapted natural
 - Tone and style adaptation
 - SEO adaptation for Arabic search
 - Cultural and contextual adaptation
-- Automotive terminology and technical content
-- Website-wide content localization
 
 ## Motorgy.com
 
-At Motorgy, I lead English-to-Arabic localization across automotive news, reviews, feature articles, buying guides, and other digital content.
+At Motorgy, I lead English-to-Arabic localization across news, reviews, feature articles, buying guides, and other digital content.
 
 This includes maintaining consistency in terminology, editorial tone, content structure, and SEO requirements while ensuring that the final Arabic content reads naturally for its intended audience.
 
