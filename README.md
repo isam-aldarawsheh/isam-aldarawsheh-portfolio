@@ -47,10 +47,9 @@ Experience leading website localization and adapting English content for Arabic-
 [View localization work →](localization/english-arabic-localization.md)
 
 ### 4. Journalism
-A career spanning automotive news, industry reporting, reviews, events, television, and digital publishing.
+A career spanning through news, industry reporting, reviews, events, television, and digital publishing.
 
 [View automotive experience →](automotive/automotive-journalism.md)
-
 ## Professional Links
 
 - **LinkedIn:** https://www.linkedin.com/in/isam-al-darawsheh
