@@ -1,6 +1,6 @@
 # Isam Al Darawsheh
 
-**Senior Editor | Content Strategist | SEO Specialist | Arabic-English Localization | Automotive Journalist**
+**Senior Editor | Content Strategist | SEO Specialist | Arabic-English Localization | Journalist**
 
 Senior editorial and digital content professional with **18+ years of experience** across MENA media platforms. My work combines editorial judgment, content strategy, SEO, digital publishing, English-to-Arabic localization, audience development, and deep automotive industry knowledge.
 
