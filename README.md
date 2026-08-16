@@ -4,7 +4,7 @@
 
 Senior editorial and digital content professional with **18+ years of experience** across MENA media platforms. My work combines editorial judgment, content strategy, SEO, digital publishing, English-to-Arabic localization, audience development, and deep automotive industry knowledge.
 
-I have produced **2,000+ automotive articles** across my career and currently work as a Senior Editor at Motorgy, where I lead Arabic localization, SEO-focused editorial content, automotive reviews, and structured automotive data initiatives.
+I have produced **2,000+ articles** across my career and currently work as a Senior Editor at Motorgy, where I lead Arabic localization, SEO-focused editorial content, automotive reviews, and structured automotive data initiatives.
 
 ## What I Do
 
