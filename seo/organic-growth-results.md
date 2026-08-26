@@ -7,7 +7,7 @@ My editorial work combines content quality with SEO strategy, search intent, key
 - **2022:** Established the SEO content foundation, generating **181,024 organic page views**.
 - **2023:** Increased article views to approximately **412,000**, representing **127.4% year-over-year growth** through keyword targeting and content optimization.
 - **2024:** Reached **625,000 annual views**, a further **51.9% year-over-year increase**.
-- **2025:** Maintained strong organic visibility with **528,000 views** while operating in an increasingly competitive search environment.
+- **2025:** Maintained strong organic visibility with **682,000 views** while operating in an increasingly competitive search environment.
 
 ## SEO Responsibilities
 
